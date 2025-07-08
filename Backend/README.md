@@ -19,6 +19,7 @@ src/
 ├── TmbControl.Modules.Indicators/
 ├── TmbControl.Modules.Objectives/
 ├── TmbControl.Modules.OperationalControl/
+├── TmbControl.Modules.Sites/
 ├── TmbControl.Modules.Users/
 ```
 
