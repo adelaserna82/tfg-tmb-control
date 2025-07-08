@@ -1,0 +1,65 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# NuGet
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+**/packages/*
+!**/packages/build/
+!**/packages/repositories.config
+
+# NPM packages (si usas node para tools frontend)
+node_modules/
+
+# Logs
+*.log
+
+# Visual Studio Code
+.vscode/
+.history/
+
+# Mac OS (añadido)
+.DS_Store
+**/.DS_Store
+
+# Secrets
+appsettings.Development.json
+appsettings.Local.json
+secrets.json
+
+# dotCover
+*.dcvr
+
+# JetBrains Rider
+.idea/
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Test Results
+TestResult*/ 
+*.coverage
+*.coveragexml
+
+# Rider code inspection logs
+.idea/.idea.*
+
+# Publish
+**/publish/
+**/wwwroot/
+
+# Others
+*.vs/
+
+# Postgres
+postgres/
+**/postgress/
