@@ -41,7 +41,6 @@ La planta TMB de Vitoria-Gasteiz trata residuos urbanos con procesos de composta
 - Permite establecer, seguir y actualizar **objetivos estratégicos** de la planta.
 - Gestiona los distintos **sitios operativos** y su información técnica.
 - Mejora la trazabilidad general de la planta mediante un backend modular y escalable.
-- Notifica a los usuarios mediante actualizaciones en tiempo real vía SignalR.
 
 ---
 
